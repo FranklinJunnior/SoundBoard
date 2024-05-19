@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7D50D12A2BF976C2001D0450 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D50D1292BF976BD001D0450 /* SoundViewController.swift */; };
 		7D63A0BE2BF29487004EB375 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D63A0BD2BF29487004EB375 /* AppDelegate.swift */; };
 		7D63A0C02BF29487004EB375 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D63A0BF2BF29487004EB375 /* SceneDelegate.swift */; };
 		7D63A0C22BF29487004EB375 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D63A0C12BF29487004EB375 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7D50D1292BF976BD001D0450 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 		7D63A0BA2BF29486004EB375 /* MamaniCruzSoundBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MamaniCruzSoundBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D63A0BD2BF29487004EB375 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7D63A0BF2BF29487004EB375 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				7D63A0BF2BF29487004EB375 /* SceneDelegate.swift */,
 				7D63A0C12BF29487004EB375 /* ViewController.swift */,
 				7D63A0C32BF29487004EB375 /* Main.storyboard */,
+				7D50D1292BF976BD001D0450 /* SoundViewController.swift */,
 				7D63A0C92BF29497004EB375 /* Assets.xcassets */,
 				7D63A0CB2BF29497004EB375 /* LaunchScreen.storyboard */,
 				7D63A0CE2BF29497004EB375 /* Info.plist */,
@@ -145,6 +148,7 @@
 				7D63A0BE2BF29487004EB375 /* AppDelegate.swift in Sources */,
 				7D63A0C02BF29487004EB375 /* SceneDelegate.swift in Sources */,
 				7D63A0C82BF29487004EB375 /* MamaniCruzSoundBoard.xcdatamodeld in Sources */,
+				7D50D12A2BF976C2001D0450 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
